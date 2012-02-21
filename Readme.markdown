@@ -5,10 +5,12 @@ Expandable list view is Apple Cocoa visual component for displaying expandable/c
 Repository contains class source and test application.
 
 Example with 3 views expanded:
-![Expanded](ScreenShot1.png)
+
+![Expanded](https://github.com/AntonDukhovnikov/ExpandableListView/blob/master/ScreenShot1.png?raw=true)
 
 Example with 2 views collapsed and 1 view expanded:
-![Collapsed](ScreenShot2.png)
+
+![Collapsed](https://github.com/AntonDukhovnikov/ExpandableListView/blob/master/ScreenShot2.png?raw=true)
 
 
 Using of the component is quite easy. In order to add expandable list into project next steps should be performed:
